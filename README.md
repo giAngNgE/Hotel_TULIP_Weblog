@@ -1,4 +1,4 @@
-# Hotel_TULIP_Weblog"
+# Hotel_TULIP_Weblog
 
 Hotel TULIP (a hypothetical organisation) is a five star hotel that locates in Australia. It is a very special hotel with an equally special purpose: Not only does it embody all the creative energy and spirit of TULIP-Lab, it’s a “learning environment” on which the tourism and hospitality students are trained for future hoteliers.
 
