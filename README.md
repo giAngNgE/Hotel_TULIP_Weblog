@@ -1,4 +1,4 @@
-"# Hotel_TULIP_Weblog" 
+# Hotel_TULIP_Weblog"
 
 Hotel TULIP (a hypothetical organisation) is a five star hotel that locates in Australia. It is a very special hotel with an equally special purpose: Not only does it embody all the creative energy and spirit of TULIP-Lab, it’s a “learning environment” on which the tourism and hospitality students are trained for future hoteliers.
 
@@ -10,3 +10,4 @@ Hence, Hotel TULIP would like to outsource the web usage mining task to analyse 
 
 The Web server is using Microsoft Internet Information Service (IIS), and the Web log format
 can be found at: https://msdn.microsoft.com/en-us/library/ms525807(v=vs.90).aspx
+ 
