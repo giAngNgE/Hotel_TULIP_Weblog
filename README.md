@@ -28,7 +28,7 @@ its top 5 rows.
 
 3. Descriptive Statistics
 
-Traffic Analysis
+3.1 Traffic Analysis
 
 • Discover on the traffics by analysing hourly requests.
 
@@ -36,7 +36,7 @@ Traffic Analysis
 
 • Filter the hourly requests by removing any below 490,000 and above 400,000. (hourly_request_amount >= 400000 & hourly_request_amount <= 490000) 
 
-Server Analysis - Discover on the server status using ‘sc-status’ from DataFrame
+3.2 Server Analysis - Discover on the server status using ‘sc-status’ from DataFrame
 
 • How many types of status reported?
 
@@ -44,7 +44,7 @@ Server Analysis - Discover on the server status using ‘sc-status’ from DataF
 
 • Figure ‘Server Status’ in Donut Chart.
 
- Geographic Analysis
+3.3 Geographic Analysis
  
 • Select all requests at 01 Jan 2007 from 20:00:00 pm to 20:59:59 pm.
 
